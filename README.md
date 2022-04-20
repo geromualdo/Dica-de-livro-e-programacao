@@ -1,4 +1,4 @@
-<b> Dicas de site para estudar programação </b>
+<b><i> Dicas de site para estudar programação</i> </b>
 
 Plataformas para estudar programaçõ gratuito.
 
