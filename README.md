@@ -12,7 +12,7 @@ Plataformas para estudar programaçõ gratuito.
 
 * Khan Academy
 
-<b> Dicas de Literatura </b>
+📚<b> Dicas de Literatura </b>
 
 * Engenharia de Software - Pressman
 
