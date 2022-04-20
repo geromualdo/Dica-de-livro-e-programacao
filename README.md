@@ -1,4 +1,4 @@
-Dicas de site para estudar programação
+<b> Dicas de site para estudar programação </b>
 
 Plataformas para estudar programaçõ gratuito.
 
@@ -12,7 +12,7 @@ Plataformas para estudar programaçõ gratuito.
 
 * Khan Academy
 
-Dicas de Literatura </black>
+<b> Dicas de Literatura </b>
 
 * Engenharia de Software - Pressman
 
