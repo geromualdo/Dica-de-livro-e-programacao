@@ -31,4 +31,6 @@ Plataformas para estudar programaçõ gratuito.
 * No Silver Bullet - Essence and Accident in Sotfware Engineering
 <br>
 
-<b> Dicas de Livros de Matemática para quem tem dificuldade<b>
+📚<b> Dicas de Livros de Matemática para quem tem dificuldade<b>
+<br>
+* Sou pessimo em Matemática como desvendar os mistérios dos numeros com historias fascinantes - Rafael Procopio
