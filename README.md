@@ -29,6 +29,8 @@ Plataformas para estudar programaçõ gratuito.
 * ISO/IEC/IEEE 12207:2017 Software Life Cycle Processes
 
 * No Silver Bullet - Essence and Accident in Sotfware Engineering
+
+* Algoritmos E Lógica Da Programação - Cengage Learning; 3ª edição (10 janeiro 2019)
 <br>
 
 📚<b> Dicas de Livros de Matemática para quem tem dificuldade</b>
